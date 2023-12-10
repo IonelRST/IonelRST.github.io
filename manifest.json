@@ -1,12 +1,11 @@
 {
-    "name": "sieve_of_eratosthenes",
-    "short_name": "sieve_of_eratosthenes",
-    "start_url": "https://ionelrst.github.io/sieve-deploy/",
-    "homepage": "https://ionelrst.github.io/sieve-deploy/",
+    "name": "teamo",
+    "short_name": "teamo",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Sieve Of Eratosthenes",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
